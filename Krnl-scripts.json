@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Infinite Yield",
+    "category": "Admin",
+    "platform": "PC",
+    "url": "https://raw.githubusercontent.com/EDGEIY/infiniteyield/master/source"
+  },
+  {
+    "name": "Simple ESP (Android)",
+    "category": "Utility",
+    "platform": "Android",
+    "url": "https://raw.githubusercontent.com/GogoGaga215/Krnl-scripts.json/main/android_esp.lua"
+  }
+]
