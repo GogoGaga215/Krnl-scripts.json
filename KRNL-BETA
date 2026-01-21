@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Infinite Yield",
+    "category": "Admin",
+    "platform": "PC",
+    "keySystem": false,
+    "url": "https://raw.githubusercontent.com/EDGEIY/infiniteyield/master/source",
+    "rating": 0,
+    "malicious": ["robux", "scam", "hack"],
+    "verified": true
+  },
+  {
+    "name": "CMD-X",
+    "category": "Admin",
+    "platform": "PC",
+    "keySystem": false,
+    "url": "https://raw.githubusercontent.com/CMD-X/CMD-X/master/source",
+    "rating": 0,
+    "malicious": ["robux", "scam", "hack"],
+    "verified": true
+  },
+  {
+    "name": "Fates Admin",
+    "category": "Admin",
+    "platform": "PC",
+    "keySystem": false,
+    "url": "https://raw.githubusercontent.com/FatesAdmin/FatesAdmin/main/source",
+    "rating": 0,
+    "malicious": ["robux", "scam", "hack"],
+    "verified": true
+  },
+  {
+    "name": "Simple ESP",
+    "category": "Utility",
+    "platform": "Android",
+    "keySystem": true,
+    "keyType": "LootLinks",
+    "keyUrl": "https://lootlinks.co/premium-esp",
+    "url": "https://raw.githubusercontent.com/GogoGaga215/Krnl-Beta/main/android_esp.lua",
+    "rating": 0,
+    "malicious": ["robux", "scam", "hack"],
+    "verified": true
+  },
+  {
+    "name": "Infinite Jump",
+    "category": "Fun",
+    "platform": "Android",
+    "keySystem": true,
+    "keyType": "Luarmor",
+    "keyUrl": "https://luarmor.net/key/abcd1234",
+    "url": "https://raw.githubusercontent.com/GogoGaga215/Krnl-Beta/main/android_infinite_jump.lua",
+    "rating": 0,
+    "malicious": ["robux", "scam", "hack"],
+    "verified": true
+  },
+  {
+    "name": "Click Teleport",
+    "category": "Utility",
+    "platform": "Android",
+    "keySystem": true,
+    "keyType": "LootDest",
+    "keyUrl": "https://lootdest.com/some-key",
+    "url": "https://raw.githubusercontent.com/GogoGaga215/Krnl-Beta/main/android_click_teleport.lua",
+    "rating": 0,
+    "malicious": ["robux", "scam", "hack"],
+    "verified": true
+  },
+  {
+    "name": "Walk Speed / Jump Power",
+    "category": "Utility",
+    "platform": "Android",
+    "keySystem": false,
+    "url": "https://raw.githubusercontent.com/GogoGaga215/Krnl-Beta/main/android_speed_jump.lua",
+    "rating": 0,
+    "malicious": ["robux", "scam", "hack"],
+    "verified": true
+  },
+  {
+    "name": "Premium Script Example",
+    "category": "Fun",
+    "platform": "PC",
+    "keySystem": true,
+    "keyType": "LootLinks",
+    "keyUrl": "https://lootlinks.co/premium-script",
+    "url": "https://raw.githubusercontent.com/GogoGaga215/Krnl-Beta/main/premium.lua",
+    "rating": 0,
+    "malicious": ["robux", "scam", "hack"],
+    "verified": true
+  }
+]
