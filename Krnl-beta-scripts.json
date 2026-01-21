@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Infinite Yield",
+    "category": "Admin",
+    "platform": "PC",
+    "url": "https://raw.githubusercontent.com/EDGEIY/infiniteyield/master/source"
+  },
+  {
+    "name": "Simple ESP (Android)",
+    "category": "Utility",
+    "platform": "Android",
+    "url": "https://raw.githubusercontent.com/GogoGaga215/Krnl-Beta/main/android_esp.lua"
+  },
+  {
+    "name": "Dex Explorer",
+    "category": "Admin",
+    "platform": "PC",
+    "url": "https://raw.githubusercontent.com/EDGEIY/dex/master/source"
+  },
+  {
+    "name": "Infinite Jump (Android)",
+    "category": "Fun",
+    "platform": "Android",
+    "url": "https://raw.githubusercontent.com/GogoGaga215/Krnl-Beta/main/android_infinite_jump.lua"
+  },
+  {
+    "name": "Fates Admin",
+    "category": "Admin",
+    "platform": "PC",
+    "url": "https://raw.githubusercontent.com/FatesAdmin/FatesAdmin/main/source"
+  },
+  {
+    "name": "Click Teleport (Android)",
+    "category": "Utility",
+    "platform": "Android",
+    "url": "https://raw.githubusercontent.com/GogoGaga215/Krnl-Beta/main/android_click_teleport.lua"
+  },
+  {
+    "name": "CMD-X",
+    "category": "Admin",
+    "platform": "PC",
+    "url": "https://raw.githubusercontent.com/CMD-X/CMD-X/master/source"
+  },
+  {
+    "name": "Walk Speed / Jump Power (Android)",
+    "category": "Utility",
+    "platform": "Android",
+    "url": "https://raw.githubusercontent.com/GogoGaga215/Krnl-Beta/main/android_speed_jump.lua"
+  }
+]
